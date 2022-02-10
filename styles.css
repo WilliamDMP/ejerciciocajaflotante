@@ -1,0 +1,44 @@
+body {
+    background-color: darkgrey;
+}
+
+#caja {
+    background-color: white;
+    width: fit-content;
+    border-left: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-radius: 2px;
+    height: 95px;
+    
+}
+
+#texto1 {
+    color: black;
+    margin: 2px;
+    padding: 4px;
+    border-bottom: 1px solid lightgray;
+    height: fit-content;
+}
+
+#texto2 {
+    color: black;
+    margin: 2px;
+    padding: 4px;
+    border-bottom: 1px solid lightgray;
+    height: fit-content;
+}
+
+#btn1 {
+    margin: 4px;
+    background-color: rgb(54, 54, 214);
+    color: white;
+    padding: 4px;
+}
+
+#btn2 {
+    margin: 4px;
+    background-color: rgb(86, 86, 93);
+    color: white;
+    padding: 4px;
+}
